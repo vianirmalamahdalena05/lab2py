@@ -5,7 +5,7 @@ Sebagai tugas praktikum: [2] Bahasa Pemrograman | Universitas Pelita Bangsa.
 * Latihan 1:
 > Python bersifat case-sensitive, jadi perhatikan besar kecil huruf yang digunakan.
 <p align="left">
-  <img src="/screenshot/latihan1.jpg" width="400">
+  <img src="/screenshot/latihan1.png" width="400">
 </p>
 
     print("Hello!")
@@ -16,7 +16,7 @@ perintah ***print** ini berfungsi untuk mencetak suatu kata maupun perintah pada
 * Latihan 2:
 > ***a + b*** bisa saja ditulis menjadi ***a+b*** tapi penggunaan Python mempunyai standar keteraturan.
 <p align="left">
-  <img src="/screenshot/latihan2.jpg" width="400">
+  <img src="/screenshot/latihan2.png" width="400">
 </p>
 
     # variabel
@@ -34,7 +34,7 @@ perintah ***print** ini berfungsi untuk mencetak suatu kata maupun perintah pada
 * Latihan 3:
 > ***int*** bersifat opsional, gunakan jika ingin kode lebih terstruktur.
 <p align="left">
-  <img src="/sreenshot/latihan3.jpg" width="400">
+  <img src="/sreenshot/latihan3.png" width="400">
 </p>
 
     # input nilai variabel bersifat intenger
